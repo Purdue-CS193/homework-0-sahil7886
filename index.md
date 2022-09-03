@@ -6,6 +6,6 @@ WHAT'S UP GUYS ITS YA BOI KSIJALEBITEA
 - Fun
 - Interesting
 - Very fun
-- Very interesting stuff
+- Very interesting
 - I like learning CS stuff
 - Taylor Swift
